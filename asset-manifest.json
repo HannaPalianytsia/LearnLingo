@@ -1,13 +1,29 @@
 {
   "files": {
-    "main.css": "/LearnLingo/static/css/main.0ccda88d.css",
-    "main.js": "/LearnLingo/static/js/main.0a79a433.js",
+    "main.css": "/LearnLingo/static/css/main.d7d88726.css",
+    "main.js": "/LearnLingo/static/js/main.79ea359b.js",
+    "static/css/674.a45cb30b.chunk.css": "/LearnLingo/static/css/674.a45cb30b.chunk.css",
+    "static/js/674.73d399e4.chunk.js": "/LearnLingo/static/js/674.73d399e4.chunk.js",
+    "static/css/861.1ac765a0.chunk.css": "/LearnLingo/static/css/861.1ac765a0.chunk.css",
+    "static/js/861.87319c96.chunk.js": "/LearnLingo/static/js/861.87319c96.chunk.js",
+    "static/css/480.7808074e.chunk.css": "/LearnLingo/static/css/480.7808074e.chunk.css",
+    "static/js/480.d28ddc9f.chunk.js": "/LearnLingo/static/js/480.d28ddc9f.chunk.js",
+    "static/css/154.8ec8537a.chunk.css": "/LearnLingo/static/css/154.8ec8537a.chunk.css",
+    "static/js/154.90c76fce.chunk.js": "/LearnLingo/static/js/154.90c76fce.chunk.js",
     "index.html": "/LearnLingo/index.html",
-    "main.0ccda88d.css.map": "/LearnLingo/static/css/main.0ccda88d.css.map",
-    "main.0a79a433.js.map": "/LearnLingo/static/js/main.0a79a433.js.map"
+    "main.d7d88726.css.map": "/LearnLingo/static/css/main.d7d88726.css.map",
+    "main.79ea359b.js.map": "/LearnLingo/static/js/main.79ea359b.js.map",
+    "674.a45cb30b.chunk.css.map": "/LearnLingo/static/css/674.a45cb30b.chunk.css.map",
+    "674.73d399e4.chunk.js.map": "/LearnLingo/static/js/674.73d399e4.chunk.js.map",
+    "861.1ac765a0.chunk.css.map": "/LearnLingo/static/css/861.1ac765a0.chunk.css.map",
+    "861.87319c96.chunk.js.map": "/LearnLingo/static/js/861.87319c96.chunk.js.map",
+    "480.7808074e.chunk.css.map": "/LearnLingo/static/css/480.7808074e.chunk.css.map",
+    "480.d28ddc9f.chunk.js.map": "/LearnLingo/static/js/480.d28ddc9f.chunk.js.map",
+    "154.8ec8537a.chunk.css.map": "/LearnLingo/static/css/154.8ec8537a.chunk.css.map",
+    "154.90c76fce.chunk.js.map": "/LearnLingo/static/js/154.90c76fce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ccda88d.css",
-    "static/js/main.0a79a433.js"
+    "static/css/main.d7d88726.css",
+    "static/js/main.79ea359b.js"
   ]
 }
